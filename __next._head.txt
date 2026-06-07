@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[75923,["/_next/static/chunks/3_ah6s6tkqtu6.js"],"ViewportBoundary"]
+3:I[75923,["/_next/static/chunks/3_ah6s6tkqtu6.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[13109,["/_next/static/chunks/3_ah6s6tkqtu6.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"RoamLink | Oteller için Bulut Tabanlı eSIM & Bağlantı Yazılımı"}],["$","meta","1",{"name":"description","content":"RoamLink ile otelinizde hiçbir operasyonel yük olmadan misafirlerinize eSIM internet hizmeti sunun. Sıfır kurulum maliyetiyle ek oda geliri elde edin."}],["$","meta","2",{"name":"author","content":"RoamLink Technologies"}],["$","meta","3",{"name":"keywords","content":"otel esim, otel internet, roamlink, otel ek gelir, otel yazilim cozumleri"}],["$","link","4",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","5",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"McfxDXd09B4mSXyaI2Lsc"}
